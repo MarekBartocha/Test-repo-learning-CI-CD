@@ -2,4 +2,4 @@
 
 This is the WeebHook test
 Second test
-test cron
+test deploy via cron on serwer
